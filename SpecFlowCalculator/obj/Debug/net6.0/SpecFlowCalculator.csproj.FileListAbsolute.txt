@@ -10,3 +10,15 @@
 /home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/obj/Debug/net6.0/SpecFlowCalculator.pdb
 /home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/obj/Debug/net6.0/ref/SpecFlowCalculator.dll
 /home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/bin/Debug/net6.0/ref/SpecFlowCalculator.dll
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/bin/Debug/net6.0/SpecFlowCalculator.deps.json
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/bin/Debug/net6.0/SpecFlowCalculator.dll
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/bin/Debug/net6.0/ref/SpecFlowCalculator.dll
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/bin/Debug/net6.0/SpecFlowCalculator.pdb
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/Debug/net6.0/SpecFlowCalculator.csproj.AssemblyReference.cache
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/Debug/net6.0/SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/Debug/net6.0/SpecFlowCalculator.AssemblyInfoInputs.cache
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/Debug/net6.0/SpecFlowCalculator.AssemblyInfo.cs
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/Debug/net6.0/SpecFlowCalculator.csproj.CoreCompileInputs.cache
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/Debug/net6.0/SpecFlowCalculator.dll
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/Debug/net6.0/ref/SpecFlowCalculator.dll
+/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/Debug/net6.0/SpecFlowCalculator.pdb

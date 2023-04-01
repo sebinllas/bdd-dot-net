@@ -12,6 +12,7 @@ namespace SpecFlowCalculator.Specs.Steps
 
         private readonly Calculator _calculator = new Calculator();
         private int _result;
+        private string _stringResult;
 
         public CalculatorStepDefinitions(ScenarioContext scenarioContext)
         {
@@ -40,6 +41,38 @@ namespace SpecFlowCalculator.Specs.Steps
         public void ThenTheResultShouldBe(int result)
         {
             _result.Should().Be(result);
+        }
+
+        [When(@"the two numbers are subtracted")]
+        public void WhenTheTwoNumbersAreSubtracted()
+        {
+            _result = _calculator.Subtract();
+        }
+
+        [When(@"the two numbers are multiplied")]
+        public void WhenTheTwoNumbersAreMultiplied()
+        {
+            _result = _calculator.Multiply();
+        }
+
+        [When(@"the two numbers are divided")]
+        public void WhenTheTwoNumbersAreDivided()
+        {
+            try
+            {
+                _result = _calculator.Divide();
+            }
+            catch (Exception ex)
+            {
+                _stringResult = ex.Message;
+            }
+            
+        }
+
+        [Then(@"the string result should be ""(.*)""")]
+        public void ThenTheStringResultShouldBe(string result)
+        {
+            _stringResult.Should().Be(result);
         }
     }
 }

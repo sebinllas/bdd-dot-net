@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/SpecFlowCalculator.csproj": {}
+    "/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/SpecFlowCalculator.csproj": {}
   },
   "projects": {
-    "/home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/SpecFlowCalculator.csproj": {
+    "/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/SpecFlowCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/SpecFlowCalculator.csproj",
+        "projectUniqueName": "/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/SpecFlowCalculator.csproj",
         "projectName": "SpecFlowCalculator",
-        "projectPath": "/home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/SpecFlowCalculator.csproj",
-        "packagesPath": "/home/sebastian/.nuget/packages/",
-        "outputPath": "/home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/obj/",
+        "projectPath": "/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/SpecFlowCalculator.csproj",
+        "packagesPath": "/home/lis/.nuget/packages/",
+        "outputPath": "/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sebastian/.nuget/NuGet/NuGet.Config"
+          "/home/lis/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

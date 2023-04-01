@@ -11,5 +11,24 @@ namespace SpecFlowCalculator
         {
             return FirstNumber + SecondNumber;
         }
+
+        public int Subtract()
+        {
+            return FirstNumber - SecondNumber;
+        }
+
+        public int Multiply()
+        {
+            return FirstNumber * SecondNumber;
+        }
+
+        public int Divide()
+        {
+            if (SecondNumber == 0)
+            {
+                throw new DivideByZeroException("Division by zero is not allowed");
+            }
+            return FirstNumber / SecondNumber;
+        }
     }
 }

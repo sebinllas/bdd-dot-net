@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hq7YpDXZlpvt9064KjpKR5oR1HStJtr7ngpAYrYV10diFbKxhCqxOikNb+QYCy32Ro4/ad6RG5ggRi1KZuREbA==",
+  "dgSpecHash": "bStabuKdexrB2ql+4bqG9FVp3wK9F5QgjUaRPgNZ121ZbBXEO7qAtscJhkJSjd8PC8G0H1esL8EcBDa6HxxSeQ==",
   "success": true,
-  "projectFilePath": "/home/sebastian/RiderProjects/ClassLibrary1/SpecFlowCalculator/SpecFlowCalculator.csproj",
+  "projectFilePath": "/home/lis/RiderProjects/bdd-dot-net/SpecFlowCalculator/SpecFlowCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
